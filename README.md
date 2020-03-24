@@ -21,3 +21,4 @@
      
      Reforçar meu conhecimento em React Native.
     
+Obs: O aplicativo está com um pequeno bug em relação a realização do login e redirecionamento para a tela "Home" devido a atualização do react-navigation v5.
